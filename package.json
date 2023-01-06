@@ -136,6 +136,9 @@
     "stylelint-config-recommended": "^7.0.0",
     "tar": "^6.1.2"
   },
+  "prisma": {
+    "seed": "node prisma/seed.js"
+  },
   "cacheDirectories": [
     ".next/cache"
   ]
